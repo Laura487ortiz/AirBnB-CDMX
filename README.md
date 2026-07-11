@@ -39,6 +39,6 @@ A continuación se muestran algunas capturas del dashboard desarrollado en Power
 
 ---
 
-## 📌 Nota
+## Nota
 
 Este repositorio contiene el archivo fuente del dashboard, una versión en PDF y algunas capturas de pantalla para mostrar el diseño y las principales visualizaciones del informe.
