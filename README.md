@@ -17,12 +17,11 @@ Proyecto desarrollado en **Microsoft Power BI** para el análisis de datos de al
 
 A continuación se muestran algunas capturas del dashboard desarrollado en Power BI:
 
-![Dashboard 1](imagenes/AirBnB1.png)
+![Dashboard 1](AirBnB1.png)
 
-![Dashboard 2](imagenes/AirBnB2.png)
+![Dashboard 2](AirBnB2.png)
 
-![Dashboard 3](imagenes/AirBnB3.png)
-
+![Dashboard 3](AirBnB3.png)
 ---
 
 ## 🛠 Herramientas utilizadas
