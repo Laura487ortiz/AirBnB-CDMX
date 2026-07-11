@@ -1,34 +1,45 @@
-# Dashboard de Airbnb en Ciudad de México
+# 🏡 Dashboard Airbnb - Ciudad de México
 
-## Descripción
+Proyecto desarrollado en **Microsoft Power BI** para el análisis de datos de alojamientos de Airbnb en Ciudad de México. El dashboard integra procesos de limpieza y transformación de datos con **Power Query**, así como medidas y métricas creadas mediante **DAX**, permitiendo explorar información clave de forma visual e interactiva.
 
-Este proyecto presenta un dashboard desarrollado en Microsoft Power BI para analizar información de alojamientos Airbnb en Ciudad de México.
+---
 
-### Indicadores
+## 📊 Objetivos del proyecto
 
-- Precio promedio por noche
-- Número de alojamientos
-- Número de hosts
-- Distribución por barrios
-- Tipo de habitación
-- Disponibilidad
-- Mapas interactivos
+- Analizar el comportamiento de los precios de los alojamientos.
+- Explorar la disponibilidad y características de las propiedades.
+- Visualizar indicadores clave mediante tarjetas, gráficos y mapas.
+- Aplicar transformaciones de datos y medidas DAX para apoyar el análisis.
 
-## Vista previa
+---
 
-![Portada](imagenes/portada.png)
+## 🖼 Algunas imágenes del dashboard interactivo
 
-## Páginas del dashboard
+A continuación se muestran algunas capturas del dashboard desarrollado en Power BI:
 
-### Página 1
+![Dashboard 1](imagenes/AirBnB1.png)
 
-![Página 1](imagenes/pagina1.png)
+![Dashboard 2](imagenes/AirBnB2.png)
 
-### Página 2
+![Dashboard 3](imagenes/AirBnB3.png)
 
-![Página 2](imagenes/pagina2.png)
+---
 
-## Archivos
+## 🛠 Herramientas utilizadas
 
-- Informe_Airbnb_CDMX.pbix
-- Informe_Airbnb_CDMX.pdf
+- Microsoft Power BI Desktop
+- Power Query
+- DAX
+
+---
+
+## 📁 Archivos del proyecto
+
+- 📄 `Informe_BI_Udemy.pbix` – Archivo editable del informe de Power BI.
+- 📄 `Informe_BI_Udemy.pdf` – Versión del dashboard exportada en formato PDF.
+
+---
+
+## 📌 Nota
+
+Este repositorio contiene el archivo fuente del dashboard, una versión en PDF y algunas capturas de pantalla para mostrar el diseño y las principales visualizaciones del informe.
